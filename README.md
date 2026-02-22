@@ -23,7 +23,7 @@ To analyze market trends and understand price movement patterns using Microsoft 
 ## Data Visualization
 Line chart showing trend of NIFTY 50 closing prices:
 
-![NIFTY 50 Line Chart](Screenshot (88).png)
+![NIFTY 50 Line Chart](line_chart.png)
 
 ## Key Learning
 - Improved financial data interpretation
