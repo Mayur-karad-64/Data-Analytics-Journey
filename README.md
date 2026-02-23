@@ -34,3 +34,31 @@ Line chart showing trend of NIFTY 50 closing prices:
 
 📅 Date: 22 February 2026  
 📊 Data Analytics Journey – Day 1
+
+
+# Day 02 – 2025 Yearly Budget Analysis (Excel)
+
+## Dataset Overview
+Analyzed a 2025 yearly budget dataset containing monthly expense data from January to December.
+
+## Objective
+To analyze expense distribution across months and identify spending trends using Microsoft Excel.
+
+## Tasks Performed
+- Structured and cleaned the dataset
+- Reviewed monthly expense patterns
+- Compared spending variations across months
+- Identified high and low expense periods
+
+## Key Insights
+- Observed seasonal variations in expenses
+- Identified months with peak spending
+- Understood overall yearly expense distribution
+
+## Tools Used
+- Microsoft Excel
+
+---
+
+📅 Date: 23 February 2026  
+📊 Data Analytics Journey – Day 2
